@@ -43,5 +43,7 @@ Podéis repartiros las tareas como vosotros consideréis, y hacer las vistas com
 
 La rama `dev` ya existe, y todos podéis ir a ella haciendo `git checkout dev`. Os recomendamos que repaséis la chuleta de git colaborativo y que, en las primeras iteraciones, os ayudéis los unos a los otros.
 
-Antes de poder llevar a cabo esta primera tarea, solo hay un problema, y es que **el modelo de User se ha perdido**, por lo que no podemos avanzar. Lo han visto por última vez en...
+Antes de poder llevar a cabo esta primera tarea, solo hay un problema, y es que **el modelo de User se ha perdido**, por lo que no podemos avanzar. Lo han visto por última vez [no muy lejos..](https://www.alebausa.com/user-antalya). 
+
+Por cierto, ¿recordáis qué propiedad de los esquemas de mongoose sirve para eliminar el espacio blanco al principio y al final de una string? 
 
