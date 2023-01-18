@@ -1,6 +1,10 @@
-# Equipo Antalya
+# Equipo Antalya ⭐️
 
-> ¡Bienvenidos equipo Antalya! Sabíamos que no nos ibáis a decepcionar. Habéis encontrado el repositorio, y eso nos da algo de esperanza, pero esto es solo el primer paso. Aún no sabéis de qué es la aplicación, pero aún no confiamos suficientemente en vosotros como para daros esas información. Si esta parte sale bien, quizá...
+![](/public/images/antalya.png)
+
+¡Bienvenidos equipo Antalya! Sabíamos que no nos ibáis a decepcionar. Habéis encontrado el repositorio, y eso nos da algo de esperanza, pero esto es solo el primer paso. Aún no sabéis de qué es la aplicación, pero aún no confiamos suficientemente en vosotros como para daros esas información. *Si esta parte sale bien, quizá...*
+
+---
 
 ## Misión actual 🔓
 
@@ -25,7 +29,7 @@ Ahora:
 
 ### Primer paso 🔐
 
-Lo primero que tenéis que hacer son las rutas de autenticación:
+Lo primero que tenéis que hacer son las rutas de auth:
 
 ```bash
 GET /auth/signup
@@ -39,5 +43,5 @@ Podéis repartiros las tareas como vosotros consideréis, y hacer las vistas com
 
 La rama `dev` ya existe, y todos podéis ir a ella haciendo `git checkout dev`. Os recomendamos que repaséis la chuleta de git colaborativo y que, en las primeras iteraciones, os ayudéis los unos a los otros.
 
-Antes de continuar, solo hay un problema, y es que **el modelo de User se ha perdido**, por lo que no podemos avanzar. La única pista que tenemos es la siguiente:
+Antes de poder llevar a cabo esta primera tarea, solo hay un problema, y es que **el modelo de User se ha perdido**, por lo que no podemos avanzar. Lo han visto por última vez en...
 
