@@ -31,6 +31,8 @@ Para visualizar la base de datos desde Mongo Compass, todos tenéis que clicar e
 mongodb+srv://admin:admin@antalyadb.675i5xy.mongodb.net/antalyaDB
 ```
 
+Veréis que por defecto se crean dos colecciones: admin y local. Es correcto, no hace falta hacer nada con ellas.
+
 > Si hay algún error en el repositorio, acudid al punto de control 📍
 
 ---
